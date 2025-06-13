@@ -1,0 +1,18 @@
+[
+    {
+        "_id": {
+            "$oid": "684c2bcf84f4aea14e78387b"
+        },
+        "Titulo": "hoy base de datos con gabi",
+        "Texto": "se quieren matar todos",
+        "Imagen": "img/foto1.JPG"
+    },
+    {
+        "_id": {
+            "$oid": "684c2ea084f4aea14e78387c"
+        },
+        "Titulo": "hoy base de datos con gabi",
+        "Texto": "se quieren matar todos",
+        "Imagen": "img/foto1.JPG"
+    }
+]
